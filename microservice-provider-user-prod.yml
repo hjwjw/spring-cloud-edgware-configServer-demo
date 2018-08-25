@@ -25,14 +25,7 @@ logging:                           #配置日志级别，让Hibernate 打印执�
   level:
     org.springframework: info
     org.hibernate: info
-## INFO
-info:
-  app:
-    name: @project.artifactId@
-    encoding: @project.build.sourceEncoding@
-    java:
-      source: @java.version@
-      target: @java.version@
+
 management:
   security:
     enabled: false
