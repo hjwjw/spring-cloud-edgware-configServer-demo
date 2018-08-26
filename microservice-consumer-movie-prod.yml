@@ -1,5 +1,6 @@
 server:
     port: 8010
+profile: movie-prod-v1.0
 user:
     userServiceUrl: http://localhost:8000/
 spring:

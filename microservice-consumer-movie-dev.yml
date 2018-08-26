@@ -1,5 +1,6 @@
 server:
     port: 8011
+profile: movie-dev-v1.0    
 user:
     userServiceUrl: http://localhost:8001/
 spring:
