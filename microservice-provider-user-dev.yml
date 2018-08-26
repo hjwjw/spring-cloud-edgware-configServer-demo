@@ -1,6 +1,6 @@
 server:
   port: 8001
-
+profile: user-dev-v1.0
 spring:
   application:
     name: microservice-provider-user
@@ -34,7 +34,9 @@ management:
       base-path: /application
       exposure:
         include: '*'
-
+  endpoint:
+    health:
+      show-details: when_authorized
 eureka:
   client:
     healthcheck:
