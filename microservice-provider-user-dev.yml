@@ -34,9 +34,7 @@ management:
       base-path: /application
       exposure:
         include: '*'
-  endpoint:
-    health:
-      show-details: when_authorized
+
 eureka:
   client:
     healthcheck:
