@@ -1,6 +1,6 @@
 server:
   port: 8001
-profile: user-dev-v2.0
+profile: '{cipher}4ea31d96156f4f97f586ebc433f80c4d8fa60fa3cf168ac167d9c2ef33c5ad95'
 spring:
   application:
     name: microservice-provider-user
