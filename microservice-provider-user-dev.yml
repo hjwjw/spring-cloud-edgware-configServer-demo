@@ -1,6 +1,6 @@
 server:
   port: 8001
-profile: '{cipher}AQBGUDYRGkIeO+HoL8qiuNrhvQQvLTy96+pwg+xzE30oN87Hdq1BamvlIV17tmMDxODvx76uejYjo1rTD5jWFPQH7XzIaRPx3MPeenXlEEVn8wfBSFhb88u3PunRwXk8MHLt7T2yY99YhOlg9Lfcr7WBelrg3GuE1pq9WRod4CghxT63bH81J42U7JooeqYnZs1E95T0hwskH/Cp9DfLdoiCui+qBx43EzVMjH501Moc14Q5eaJOVC+vpjDdDKcoJHfYyoJXUGtOKPueA8mThcboY/2vQLwdZ/zT/77Z+O2nLjtHFNNqtWce2ibsoYUDnV0QSxE1JYNKc36D5iDhX01BSsINuo9SQJP1F2mfP7szHMbEGThiXcP1u1Lpfiqg97w='
+profile: user-dev-v1.0
 spring:
   application:
     name: microservice-provider-user
