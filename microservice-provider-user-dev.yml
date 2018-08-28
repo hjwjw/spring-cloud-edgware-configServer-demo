@@ -1,6 +1,6 @@
 server:
   port: 8001
-profile: user-dev-v2.0
+profile: user-dev-v1.0
 spring:
   application:
     name: microservice-provider-user
