@@ -1,9 +1,9 @@
 server:
-  port: 8002
+  port: 8001
 profile: user-dev-v2.0    
 spring:
   application:
-    name: microservice-provider-user
+    name: microservice-provider-user-v1
   jpa:
     generate-ddl: false
     show-sql: true
