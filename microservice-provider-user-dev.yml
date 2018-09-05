@@ -1,5 +1,5 @@
 server:
-  port: 8001
+  port: 8002
 profile: user-dev-v2.0    
 spring:
   application:
